@@ -1,0 +1,10 @@
+# directories
+node_modules/
+.vscode
+.idea/
+
+# files
+.eslintcache
+.DS_Store
+.npm
+.env
